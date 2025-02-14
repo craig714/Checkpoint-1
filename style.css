@@ -39,3 +39,11 @@
 .custom-fw {
   font-size: 10rem;
 }
+
+.bg-grey {
+  background-color: rgba(63, 53, 53, 0.801);
+}
+
+.middle-card {
+  transform: translateY(-30px);
+}
