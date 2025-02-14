@@ -54,3 +54,11 @@
   background-position: center;
   min-height: 30dvh;
 }
+
+@media screen AND (max-width: 850px) {
+
+  .magic-spill {
+    top: -60px
+  }
+
+}
