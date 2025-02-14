@@ -11,8 +11,6 @@
   background-size: cover;
   min-height: 60dvh;
 
-
-
 }
 
 .sith-logo {
@@ -25,4 +23,9 @@
 .left-line {
   border-left: 5px solid red;
   padding-left: 5px;
+}
+
+.magic-spill {
+  position: absolute;
+  top: -230px;
 }
