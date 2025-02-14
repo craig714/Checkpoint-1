@@ -47,3 +47,10 @@
 .middle-card {
   transform: translateY(-30px);
 }
+
+.battle-pic {
+  background-image: url(https://static1.srcdn.com/wordpress/wp-content/uploads/2020/07/Star-Wars-Feature-Image.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 30dvh;
+}
