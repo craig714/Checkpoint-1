@@ -28,6 +28,7 @@
 .magic-spill {
   position: absolute;
   top: -230px;
+
 }
 
 .sith-lord-img {
@@ -55,20 +56,23 @@
   min-height: 30dvh;
 }
 
-@media screen AND (max-width: 850px) {
+@media screen and (max-width: 850px) {
 
   .magic-spill {
     top: -60px
   }
-
 }
 
-@media screen AND (max-width: 767.98px) {
+@media screen and (max-width: 767.98px) {
 
   .magic-spill {
     position: static;
   }
-
 }
 
-.magic-margin {}
+@media screen and (max-width: 767.98px) {
+  .middle-card {
+    position: static;
+    transform: translateY(0)
+  }
+}
